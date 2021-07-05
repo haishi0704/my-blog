@@ -1,0 +1,4 @@
+{
+    "presets": ["@babel/preset-env"] 
+    //tell babel how to transform ES6 into standard javascript code
+}
